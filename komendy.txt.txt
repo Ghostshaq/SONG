@@ -1,0 +1,12 @@
+Sheppard@DESKTOP-C19TMLD MINGW64 ~/nauka-gita/learning-git-2 (master)
+$ npm exec html-validate index.html
+
+C:\Users\Sheppard\nauka-gita\learning-git-2\index.html
+  34:6  error  <img> is missing required "alt" attribute  wcag/h37
+  35:1  error  Trailing whitespace                        no-trailing-whitespace
+
+✖ 2 problems (2 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/wcag/h37.html
+  https://html-validate.org/rules/no-trailing-whitespace.html
